@@ -1,0 +1,22 @@
+{
+  "name": "gulp_template",
+  "version": "1.0.0",
+  "description": "ore-ore gulp template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kkotaro0111/OreOreGulpTemplate.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "kkotaro0111",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kkotaro0111/OreOreGulpTemplate/issues"
+  },
+  "homepage": "https://github.com/kkotaro0111/OreOreGulpTemplate"
+}
